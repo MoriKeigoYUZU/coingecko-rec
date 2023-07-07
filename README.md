@@ -1,5 +1,8 @@
 # coingecko-rec
 
+tokenの通貨情報(JPY)を取得できます。
+ご自由にカスタムしてください。
+
 # 実行
 ```zsh
 go run main.go
